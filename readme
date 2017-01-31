@@ -1,0 +1,10 @@
+1.implemented pipes using pipe and dup2system call
+2.implemented ctrl-c using sigint
+3.implemented ctrl-d using return value getline
+4.printed bacckground rocess using a linked list
+5.moved bg to fg using waitpid system call
+6.iplemented redirection using strtok and dup2
+7.included append mode ie >>
+
+
+
